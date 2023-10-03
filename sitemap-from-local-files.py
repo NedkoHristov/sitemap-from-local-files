@@ -25,7 +25,7 @@ def generate_sitemap(directory, domain):
 
 # Specify the directory and domain
 directory = "."  # Current directory and its subdirectories
-domain = "neshtosi.com"
+domain = "example.com"
 
 # Generate the sitemap
 sitemap = generate_sitemap(directory, domain)

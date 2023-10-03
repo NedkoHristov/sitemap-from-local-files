@@ -9,7 +9,8 @@ python3 sitemap-from-local-files.py
 ```
 
 # Variables:
-`directory` - by default it's the current directory;
+`directory` - by default it's the current directory
+
 `domain` - by default it's `example.com`
 
 # Examples:
